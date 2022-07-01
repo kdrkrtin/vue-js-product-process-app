@@ -1,0 +1,11 @@
+/*  BODY  */
+
+body{
+    padding-bottom: 120px;
+}
+
+/*  MENU  */
+
+.navbar #navbarMenu .nav-item .active{
+    color: #fff !important;
+}
