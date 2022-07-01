@@ -1,4 +1,4 @@
-# urun-islemleri-vu-cli
+# Vue JS Product Process App
 
 ## Project setup
 ```
